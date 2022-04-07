@@ -1,0 +1,13 @@
+{
+  "name": "are-equal",
+  "version": "1.0.0",
+  "description": "Javascript library for comparing equality of any number of given variables of any type by value and without any order or sorting.",
+  "main": "are-equal.js",
+  "keywords": ["js","javascript","module","frontend","react","es6","backend","node","commonjs","equal","equals","equality","isEqual","areEqual","same","compare","comparing","object","function","array","string","number","boolean","null","undefined","NaN"],
+  "author": "Abhishek Biswas",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/AbhishekBiswasGitHub/are-equal/issues"
+  },
+  "homepage": "https://github.com/AbhishekBiswasGitHub/are-equal#readme"
+}
