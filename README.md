@@ -1,8 +1,9 @@
 # are-equal
 
-![version](https://img.shields.io/github/manifest-json/v/AbhishekBiswasGitHub/are-equal)
-![release](https://img.shields.io/github/v/release/AbhishekBiswasGitHub/are-equal)
-![tag](https://img.shields.io/gitlab/v/tag/AbhishekBiswasGitHub/compare-lib)
+![version](https://img.shields.io/github/package-json/v/AbhishekBiswasGitHub/are-equal)
+![last commit](https://img.shields.io/github/last-commit/AbhishekBiswasGitHub/are-equal)
+![rating](https://img.shields.io/scrutinizer/quality/g/AbhishekBiswasGitHub/are-equal)
+![license](https://img.shields.io/github/license/AbhishekBiswasGitHub/are-equal)
 
 "are-equal" is a very lightweight and fast Javascript library for comparing equality by value of any number of given variables of any type and without any order or sorting.
 
